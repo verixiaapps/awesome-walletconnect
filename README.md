@@ -108,3 +108,4 @@ V2
 # Articles and Videos
 
 - [Connecting your Mobile Apps with your Web3 Identity](https://medium.com/@hira.siddiqui/connecting-your-mobile-apps-with-your-web3-identity-ef0416033419): Tutorial to use WalletConnect Signv2 in Kotlin to connect your Android app with your Crypto Wallet.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
